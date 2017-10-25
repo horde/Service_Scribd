@@ -1,5 +1,5 @@
 {
-    "name": "horde/horde-service-scribd",
+    "name": "horde/service-scribd",
     "description": "Horde Scribd client",
     "type": "library",
     "homepage": "https://pear.horde.org",
@@ -12,7 +12,7 @@
         }
     ],
     "version": "1.0.0beta1",
-    "time": "2014-10-21",
+    "time": "2017-10-17",
     "repositories": [
         {
             "type": "pear",

@@ -10,7 +10,7 @@
   <email>chuck@horde.org</email>
   <active>yes</active>
  </lead>
- <date>2017-10-17</date>
+ <date>2017-10-27</date>
  <version>
   <release>1.0.0beta1</release>
   <api>1.0.0</api>
@@ -28,6 +28,15 @@
  </notes>
  <contents>
   <dir baseinstalldir="/" name="/">
+   <dir name="doc">
+    <dir name="Horde">
+     <dir name="Service">
+      <dir name="Scribd">
+       <file name="CHANGES" role="doc" />
+      </dir> <!-- /doc/Horde/Service/Scribd -->
+     </dir> <!-- /doc/Horde/Service -->
+    </dir> <!-- /doc/Horde -->
+   </dir> <!-- /doc -->
    <dir name="lib">
     <dir name="Horde">
      <dir name="Block">
@@ -350,6 +359,7 @@
  </dependencies>
  <phprelease>
   <filelist>
+   <install as="CHANGES" name="doc/Horde/Service/Scribd/CHANGES" />
    <install as="Horde/Block/Scribd.php" name="lib/Horde/Block/Scribd.php" />
    <install as="Horde/Service/Scribd.php" name="lib/Horde/Service/Scribd.php" />
    <install as="Horde/Service/Scribd/Exception.php" name="lib/Horde/Service/Scribd/Exception.php" />

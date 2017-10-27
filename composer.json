@@ -1,5 +1,5 @@
 {
-    "name": "horde/horde-service-scribd",
+    "name": "horde/service-scribd",
     "description": "Horde Scribd client",
     "type": "library",
     "homepage": "https://pear.horde.org",

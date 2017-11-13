@@ -1,8 +1,8 @@
 {
     "name": "horde/service-scribd",
-    "description": "Horde Scribd client",
+    "description": "Scribd client library",
     "type": "library",
-    "homepage": "https://pear.horde.org",
+    "homepage": "https://www.horde.org",
     "license": "BSD-2-Clause",
     "authors": [
         {
@@ -11,8 +11,8 @@
             "role": "lead"
         }
     ],
-    "version": "1.0.0beta1",
-    "time": "2017-10-17",
+    "version": "1.0.0alpha1",
+    "time": "2017-11-11",
     "repositories": [
         {
             "type": "pear",

@@ -2,7 +2,7 @@
 id: Service_Scribd
 name: Service_Scribd
 full: Scribd client library
-description: Client libraries for the Scribd API.
+description: A client library for the Scribd API.
 list: dev
 type: library
 authors:

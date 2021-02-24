@@ -3,17 +3,17 @@
  <name>Horde_Service_Scribd</name>
  <channel>pear.horde.org</channel>
  <summary>Scribd client library</summary>
- <description>Client libraries for the Scribd API.</description>
+ <description>A client library for the Scribd API.</description>
  <lead>
   <name>Chuck Hagenbuch</name>
   <user>chuck</user>
   <email>chuck@horde.org</email>
-  <active>yes</active>
+  <active>no</active>
  </lead>
- <date>2017-11-11</date>
+ <date>2021-02-24</date>
  <version>
   <release>1.0.0alpha1</release>
-  <api>1.0.0</api>
+  <api>1.0.0alpha1</api>
  </version>
  <stability>
   <release>alpha</release>
@@ -461,13 +461,13 @@
   <release>
    <version>
     <release>1.0.0alpha1</release>
-    <api>1.0.0</api>
+    <api>1.0.0alpha1</api>
    </version>
    <stability>
     <release>alpha</release>
     <api>alpha</api>
    </stability>
-   <date>2017-11-11</date>
+   <date>2021-02-24</date>
    <license uri="http://www.horde.org/licenses/bsd">BSD-2-Clause</license>
    <notes>
 * [jan] Mark PHP 7 as supported.

@@ -12,7 +12,7 @@
  </lead>
  <date>2021-02-24</date>
  <version>
-  <release>1.0.0alpha1</release>
+  <release>1.0.0alpha2</release>
   <api>1.0.0alpha1</api>
  </version>
  <stability>
@@ -21,10 +21,7 @@
  </stability>
  <license uri="http://www.horde.org/licenses/bsd">BSD-2-Clause</license>
  <notes>
-* [jan] Mark PHP 7 as supported.
-* [jan] Update French translation (Paul De Vlieger &lt;paul.de_vlieger@moniut.univ-bpclermont.fr&gt;).
-* [jan] Update Basque translation (Ibon Igartua &lt;ibon.igartua@ehu.es&gt;).
-* [jan] Update Latvian translation.
+* 
  </notes>
  <contents>
   <dir baseinstalldir="/" name="/">
@@ -437,6 +434,7 @@
   </filelist>
  </phprelease>
  <changelog>
+ 
   <release>
    <version>
     <release>1.0.0alpha1</release>
@@ -446,13 +444,28 @@
     <release>alpha</release>
     <api>alpha</api>
    </stability>
-   <date>2011-03-06</date>
+   <date>2021-02-24</date>
    <license uri="http://www.horde.org/licenses/bsd">BSD-2-Clause</license>
    <notes>
 * [jan] Mark PHP 7 as supported.
 * [jan] Update French translation (Paul De Vlieger &lt;paul.de_vlieger@moniut.univ-bpclermont.fr&gt;).
 * [jan] Update Basque translation (Ibon Igartua &lt;ibon.igartua@ehu.es&gt;).
 * [jan] Update Latvian translation.
+   </notes>
+  </release>
+  <release>
+   <version>
+    <release>1.0.0alpha2</release>
+    <api>1.0.0alpha1</api>
+   </version>
+   <stability>
+    <release>alpha</release>
+    <api>alpha</api>
+   </stability>
+   <date>2021-02-24</date>
+   <license uri="http://www.horde.org/licenses/bsd">BSD-2-Clause</license>
+   <notes>
+* 
    </notes>
   </release>
  </changelog>

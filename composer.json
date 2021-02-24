@@ -30,9 +30,6 @@
     "autoload": {
         "psr-0": {
             "Horde_Service_Scribd": "lib/"
-        },
-        "psr-4": {
-            "Horde\\Service\\Scribd\\": "src/"
         }
     }
 }
